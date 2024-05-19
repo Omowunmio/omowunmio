@@ -1,4 +1,4 @@
 Hi there 👋 
 Nice to meet you!
 
-I am Omowunmi Victoria. I write codes
+Thread carefully, you might wake the bugs
